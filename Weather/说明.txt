@@ -1,0 +1,22 @@
+
+运行
+1、下载安装MySQL数据库
+2、通过Navicat软件新建数据库weather_system并导入数据库文件weather_system.sql
+3、pycharm打开整个项目文件夹
+4、配置本地Python环境 （选择自己的python编译器，建议创建一个虚拟环境）
+5、安装依赖库，在终端窗口（Teminal）输入命令：
+pip install -r requirements.txt -i https://pypi.mirrors.ustc.edu.cn/simple/
+6、启动项目    运行app.py
+7、浏览器打开：http://127.0.0.1:5000/
+
+管理员	admin	123456
+
+数据库配置： utils/sysql.py
+
+
+
+
+
+
+
+
